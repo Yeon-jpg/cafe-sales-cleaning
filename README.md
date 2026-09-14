@@ -58,7 +58,3 @@ No todos los datos "anómalos" se eliminaron o modificaron automáticamente: se 
 pip install pandas numpy jupyter
 jupyter notebook limpieza_cafe_sales.ipynb
 ```
-
-## Declaración de uso de IA
-
-Durante la preparación de este repositorio se utilizó Claude (Anthropic) como apoyo para estructurar el notebook, redactar las justificaciones de cada decisión de limpieza y generar el README. El código fue revisado y ejecutado para verificar sus resultados antes de su entrega.
